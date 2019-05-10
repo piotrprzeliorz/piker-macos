@@ -1,0 +1,7 @@
+account Assets:PersonalCard
+account Expenses:Hardware
+
+2019/05/01 Hardware Expense
+    Expenses:Hardware   150 USD
+    Assets:PersonalCard  -150 USD
+
