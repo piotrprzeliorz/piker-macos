@@ -379,8 +379,7 @@
 				5D29D91922855E2600CD7333 /* RegisterDataSource.swift */,
 				5D593C5B22730C4400285512 /* DocumentController.swift */,
 			);
-			name = Logic;
-			path = Entities/Logic;
+			path = Logic;
 			sourceTree = "<group>";
 		};
 		5D7EE51B2271C27E00CD1528 /* SwiftParsec */ = {
