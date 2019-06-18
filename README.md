@@ -23,5 +23,5 @@ Installation:
 ## Screenshot
 
 <p align="center">
-<img width="90%" src="/main.png">
+<img width="100%" src="/main.png">
 </p>
