@@ -6,9 +6,8 @@ Graphic user interface around [Ledger](https://www.investopedia.com/terms/g/gene
 
 Environment: 
 
--*Xcode 10.2.1*
-
--*Swift 4.2*
+- Xcode 10.2.1.
+- Swift 4.2.
 
 Installation: 
 
@@ -25,3 +24,4 @@ Installation:
 <p align="center">
 <img width="100%" src="/main.png">
 </p>
+
